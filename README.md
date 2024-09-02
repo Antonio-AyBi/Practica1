@@ -39,6 +39,9 @@ Y para terminar, se muestra la fotografía tomada del brazo robótico:
 
 ## Conclusiones
   El uso de brazos robóticos en la automatización de tareas industriales es cada vez más relevante debido al aumento en la demanda de productos y la necesidad de realizar tareas que pueden resultar más lentas y complejas para los humanos, como el manejo de grandes pesos y desplazamientos precisos. La práctica permitió a los participantes adquirir experiencia en el uso del software Epson RC+ y en la ejecución de los primeros movimientos del brazo robótico. Esta capacitación es esencial para mantenerse al día con las tecnologías emergentes y optimizar el uso de sistemas robóticos en entornos industriales.
+
+  Esta práctica fue enteramente de carácter introductorio para conocer lo esencial principalmente sobre el funcionamiento, los movimientos y la manipulación del brazo robótico, así como el identificar la ubicación de los botones de paro de emergencia, el interruptor que enciende al brazo, la válvula de aire que permite el flujo del mismo a la pinza del brazo y el manejo del software Epson RC+ 7.0 para controlar el brazo robótico.
+  
 ## Referencias Bibliográficas
 
 RC+ Desarrollo de automatización industrial VPL Software  | Epson México. (s. f.). https://epson.com.mx/software-desarrollo-automatizacion-industrial
