@@ -16,7 +16,7 @@ Se estableció una conexión USB entre el software y el brazo robótico, lo que 
 
 Finalmente, a continuación se muestran algunas fotografías tomadas del brazo, iniciando con los tres botones de paro de emergencia con los que cuenta el brazo:
 
-![Stop Emergency](robotm.png)
+![Stop Emergency](Paro1.jpg)
 
 
 ## Conclusiones
