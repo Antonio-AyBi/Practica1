@@ -15,9 +15,14 @@
 Se estableció una conexión USB entre el software y el brazo robótico, lo que permitió manipular el robot mediante los controles de la pestaña "Robot Manager". Durante la práctica, se identificaron los "Joints" (articulaciones) del robot y se configuraron para facilitar el control en futuras sesiones. Además, se revisaron los procedimientos para detener el robot en caso de emergencia o accidente al tener alguna colisión con algún objeto físico que no permita el movimiento del brazo. Para ello, se movió el brazo de derecha a izquierda con una potencia del 30% de su capacidad y se detuvo con el brazo de cada uno de los integrantes del equipo, observando como se detenía y se encendía un LED de color ámbar ubicado en la parte superior del brazo.
 
 Finalmente, a continuación se muestran algunas fotografías tomadas del brazo, iniciando con los tres botones de paro de emergencia con los que cuenta el brazo:
+Botón de paro de emergencia 1.
+![Stop Emergency1](Paro1.jpg)
 
-![Stop Emergency](Paro1.jpg)
+Botón de paro de emergencia 2.
+![Stop Emergency2](Paro2.jpg)
 
+Botón de paro de emergencia 3.
+![Stop Emergency3](Paro3.jpg)
 
 ## Conclusiones
   El uso de brazos robóticos en la automatización de tareas industriales es cada vez más relevante debido al aumento en la demanda de productos y la necesidad de realizar tareas que pueden resultar más lentas y complejas para los humanos, como el manejo de grandes pesos y desplazamientos precisos. La práctica permitió a los participantes adquirir experiencia en el uso del software Epson RC+ y en la ejecución de los primeros movimientos del brazo robótico. Esta capacitación es esencial para mantenerse al día con las tecnologías emergentes y optimizar el uso de sistemas robóticos en entornos industriales.
